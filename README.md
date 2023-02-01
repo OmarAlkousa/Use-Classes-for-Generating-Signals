@@ -1,4 +1,4 @@
-# Use_Classes_for_Generating_Signals
+# Use_Classes_for_Generating_Signals [**[Code]**](https://github.com/OmarAlkousa/Use_Classes_for_Generating_Signals/blob/4f062ca31b0942e8ae165bf0441fba156a75f18c/Use_Classes_for_Generating_Signals/Use_Classes_for_Generating_Signals.ipynb) | [**[Towards Data Science]**](https://medium.com/towards-data-science/use-classes-for-generating-signals-6694d22e9a80)
 
 **Learn how to build a class in python and use it to generate signals.**
 
